@@ -1,0 +1,9 @@
+{
+	"name" : "search",
+	"title" : "Wikimedia Search",
+	"description" : "A modern search website for Wikimedia Projects.",
+	"url" : "https://tools.wmflabs.org/search/",
+	"keywords" : "search, crawl, projects",
+	"author" : "Suriyaa Kudo",
+	"repository" : "https://github.com/SuriyaaKudoIsc/wm-search.git"
+}
