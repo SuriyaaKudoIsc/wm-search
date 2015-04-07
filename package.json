@@ -1,1 +1,26 @@
- 
+{
+	"name": "search",
+	"version": "1.0.0",
+	"description": ""A modern search website for Wikimedia projects.",
+	"main": "public_html/index.php"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SuriyaaKudoIsc/wm-search.git"
+	},
+	"keywords": [
+	 "iSC Inc",
+		"Wikimedia",
+		"Suriyaa Kudo",
+		"search",
+		"GitHub",
+		"Wikimedia Labs",
+		"Wikimedia Tools"
+	],
+	"author": "Suriyaa Kudo",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/SuriyaaKudoIsc/wm-search/issues"
+	},
+	"homepage": "https://tools.wmflabs.org/search/"
+}
