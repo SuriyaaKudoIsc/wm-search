@@ -1,5 +1,6 @@
 #!/bin/bash
- 
+
+echo "Hi. I'm the update script for this project. Are you ready?"
 read -r -p "Stop the search service from Suriyaa and pull fresh code from GitHub? (Y/n)" response
 if ! [[ $response =~ ^([nN][oO]|[nN])$ ]]
 then
