@@ -1,6 +1,6 @@
 #!/bin/bash
  
-read -r -p "Stop the search service from Suriyaa and pull fresh code? (Y/n)" response
+read -r -p "Stop the search service from Suriyaa and pull fresh code from GitHub? (Y/n)" response
 if ! [[ $response =~ ^([nN][oO]|[nN])$ ]]
 then
 	webservice stop
