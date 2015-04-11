@@ -5,7 +5,7 @@ if ! [[ $response =~ ^([nN][oO]|[nN])$ ]]
 then
 	webservice stop
 	cd ./public_html
-	echo -e "\nUpdating the code..."
+	echo -e "\nUpdating the code for Wikimedia Tools..."
 	git pull
 	echo
 	read -r -p "OK to start the service? (Y/n)" response
