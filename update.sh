@@ -8,7 +8,7 @@ then
 	echo -e "\nUpdating the code for Wikimedia Tools..."
 	git pull
 	echo
-	read -r -p "OK to start the service? (Y/n)" response
+	read -r -p "OK to start the webservice? (Y/n)" response
 	if ! [[ $response =~ ^([nN][oO]|[nN])$ ]]
 	then
 		webservice start
