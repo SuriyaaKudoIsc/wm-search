@@ -19,8 +19,6 @@
 	],
 	"author": "Suriyaa Kudo",
 	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/SuriyaaKudoIsc/wm-search/issues"
-	},
-	"homepage": "https://tools.wmflabs.org/search/"
+	"homepage": "https://tools.wmflabs.org/search/",
+	"bugs": "https://github.com/SuriyaaKudoIsc/wm-search/issues"
 }
