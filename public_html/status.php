@@ -1,6 +1,6 @@
 <?php
 /**
- * test index
+ * Current status site
  *
  * @author Suriyaa Kudo, 2015-present
  * @license http://suriyaakudo.mit-license.org/
