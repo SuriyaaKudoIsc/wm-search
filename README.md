@@ -19,6 +19,13 @@ Runs on [iSC Inc. Tools](http://tools.inc.isc) and on [Wikimedia Tools](http://t
 Source code under [www.github.com/SuriyaaKudoIsc/wm-search](https://github.com/SuriyaaKudoIsc/wm-search).
 
 
+## External links
+
+* [The official iSC Inc. search site](https://tools.inc.isc/search/) (currently disconnected)
+* [The official Wikimedia search site](https://tools.wmflabs.org/search/)
+* [Information about this tool](https://tools.wmflabs.org/?tool=search)
+
+
 ## License
 
 Copyright (c) [MIT License 2015-present Suriyaa Kudo](http://suriyaakudo.mit-license.org/) & [iSC Inc.](https://github.com/iSCInc)
