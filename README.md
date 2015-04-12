@@ -1,4 +1,4 @@
-# wm-search
+# [Wikimedia search site](https://tools.wmflabs.org/search/) ([info](https://tools.wmflabs.org/?tool=search))
 
 > A modern Wikimedia search by Suriyaa Kudo.
 
