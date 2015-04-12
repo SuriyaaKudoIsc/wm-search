@@ -1,3 +1,5 @@
+#### .htaccess file ####
+
 # Rewrite function
 RewriteEngine On
 
