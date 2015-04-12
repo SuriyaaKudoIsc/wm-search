@@ -1,11 +1,11 @@
 {
-  "name": "",
-  "version": "",
-  "homepage": "",
+  "name": "wm-search",
+  "version": "1.0",
+  "homepage": "http://tools.wmflabs.org/search/",
   "authors": [
-    ""
+    "Suriyaa Kudo <isc.suriyaa@gmail.com>"
   ],
-  "description": "",
-  "main": "",
-  "license": ""
+  "description": "A modern Wikimedia search by Suriyaa Kudo.",
+  "main": "public_html/index.html",
+  "license": "MIT"
 }
