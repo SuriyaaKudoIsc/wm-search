@@ -14,6 +14,11 @@ Now this project was modified for the Wikimedia Foundation projects.
 Runs on [iSC Inc. Tools](http://tools.inc.isc) and on [Wikimedia Tools](http://tools.wmflabs.org/).
 
 
+## Source
+
+Source code under [www.github.com/SuriyaaKudoIsc/wm-search](https://github.com/SuriyaaKudoIsc/wm-search).
+
+
 ## License
 
 Copyright (c) [MIT License 2015-present Suriyaa Kudo](http://suriyaakudo.mit-license.org/) & [iSC Inc.](https://github.com/iSCInc)
