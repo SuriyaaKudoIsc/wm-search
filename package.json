@@ -17,7 +17,11 @@
 		"Wikimedia Labs",
 		"Wikimedia Tools"
 	],
-	"author": "Suriyaa Kudo",
+	"author": {
+		"name": "Suriyaa Kudo",
+		"email": "suriyaa@inc.isc",
+		"url": "http://bit.ly/Suriyaa"
+	},
 	"license": "MIT",
 	"homepage": "https://tools.wmflabs.org/search/",
 	"bugs": "https://github.com/SuriyaaKudoIsc/wm-search/issues"
