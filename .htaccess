@@ -13,7 +13,3 @@ AddLanguage en .html .php
   Header set Pragma "no-cache"
   Header set Expires 0
 </IfModule>
-
-# Set up bouncer for robots
-RewriteCond %{HTTP_USER_AGENT} (bingbot|Baiduspider) [NC]
-RewriteRule .* - [R=403,L]
