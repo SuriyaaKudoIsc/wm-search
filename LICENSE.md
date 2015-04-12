@@ -1,6 +1,6 @@
 **The MIT License (MIT)**
 
-Copyright (c) 2015 [Suriyaa Kudo](http://suriyaakudo.mit-license.org/)
+Copyright (c) 2015-present [Suriyaa Kudo](http://suriyaakudo.mit-license.org/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
