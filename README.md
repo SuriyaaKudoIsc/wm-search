@@ -11,7 +11,7 @@ Now this project was modified for the Wikimedia Foundation projects.
 
 ## Hoster
 
-Runs on Wikimedia Tools.
+Runs on [iSC Inc. Tools](http://tools.inc.isc) and on [Wikimedia Tools](http://tools.wmflabs.org/).
 
 
 ## License
