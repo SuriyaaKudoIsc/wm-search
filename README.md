@@ -19,6 +19,15 @@ Runs on [iSC Inc. Tools](http://tools.inc.isc) and on [Wikimedia Tools](http://t
 Source code under [www.github.com/SuriyaaKudoIsc/wm-search](https://github.com/SuriyaaKudoIsc/wm-search).
 
 
+## Integration
+Integrate following project repos in this project:
+- [ ] [SKSEngine](https://github.com/SuriyaaKudoIsc/search)
+- [ ] [subins2000's search](https://github.com/subins2000/search)
+- [ ] [Yahoo! BOSS Search API](https://github.com/SuriyaaKudoIsc/BOSS-Search-API)
+- [ ] [Bower Search](https://github.com/bower/search)
+- [ ] [bitshift](https://github.com/earwig/bitshift)
+
+
 ## External links
 
 * [The official iSC Inc. search site](https://tools.inc.isc/search/) (currently disconnected)
