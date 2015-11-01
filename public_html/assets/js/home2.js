@@ -1043,38 +1043,6 @@ pageTracker._trackPageview("/clicked_fbfan.html");
 window.open('http://www.shinysearch.com/fbfan.php','fbfan','toolbar=0,status=0,width=400,height=250');
 }
 
-function write_buttons() {
-showbtn_val = get_cookie("showbtn");
-
-switch (showbtn_val){
-case "home":
- var str='';
- str+='<input type=\"button\" value=\"Set as HomePage!\"  ONCLICK=\"set_homepage()\">';
- document.write(str);
- break;
-case "invf":
- var str='';
- str+='<input type=\"button\" value=\"Invite Friends!\"  ONCLICK=\"inv_friends()\">';
- document.write(str);
- break;
-case "fbs":
- var str='';
- str+='<input type=\"button\" value=\"Share on Facebook!\"  ONCLICK=\"fb_share()\">';
- document.write(str);
- break;
-case "fbf":
- var str='';
- str+='<input type=\"button\" value=\"Like ShinySearch?\"  ONCLICK=\"fb_fan()\">';
- document.write(str);
- break;
-default:
- var str2='';
- str2+=' <input type=\"button\" value=\"Change Theme!\"  ONCLICK=\"ps()\">';
- document.write(str2);
-}
-
-}
-
 function load_menu() {
 	https.get_object({ type: "text", url: "getmenu.php", callback: load_menu_callback });
 }
