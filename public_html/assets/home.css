@@ -1,0 +1,64 @@
+html, body { overflow: hidden; }
+html { height: 100%; width: 100%; }
+body { height: 100%; width: 100%; }
+body { margin: 0px; padding: 0px; }
+
+#container_td { height: 100%; }
+#container_inner_td { height: 100%; }
+
+a {font-family:arial,sans-serif; position:relative;}
+a:active, a:link, a:hover, a:visited { color: #ffffff; }
+a:active { outline: none; }
+a:focus { -moz-outline-style: none; }
+a.qb:active, a.qb:link, a.qb:hover, a.qb:visited { color: #ffffff; }
+
+#menubar { position: absolute; left: 0px; top: 0px; width: 100%; height: 19px; background: url(assets/images/mbar-bg.gif) repeat-x; z-index: 101; } 
+#menubar a:active, #menubar a:hover, #menubar a:link, #menubar a:visited, .popup_menu a:active, .popup_menu a:hover, .popup_menu a:link, .popup_menu a:visited {
+	font-family: Verdana, arial,sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	text-decoration: none !important;
+	color: #5B5B90;
+	line-height: 19px;
+}
+#menubar a:hover, .popup_menu a:hover { color: #f19000; }
+#menubar a.root:active, #menubar a.root:hover, #menubar a.root:link, #menubar a.root:visited { margin: 0px 5px 0px 5px; }
+#menubar ul {
+	margin: 0px 0px 0px 5px;
+	padding: 0px;
+}
+#menubar li {
+	float: left;
+	list-style-image: none;
+	list-style-position: outside;
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+.popup_menu { position: absolute; line-height: 19px; background: url(assets/images/mbar-bg.gif) repeat; padding: 0px 5px 0px 5px; display: none; }
+a img { border: none; }
+.menubar_close { position: absolute; right: 10px; top: 1px; }
+
+#overlay {
+	border-right: #fff 0px solid; padding-right: 0px; border-top: #fff 0px solid; display: none; padding-left: 0px; z-index: 400; right: 0px; filter: alpha(opacity=80); left: 0px; padding-bottom: 0px; margin: 0px; border-left: #fff 0px solid; width: 100%; bottom: 0px; padding-top: 0px; border-bottom: #fff 0px solid; position: fixed; top: 0px; height: 100%; background-color: #000; opacity: .8
+}
+
+#ie7_set_homepage_tip {
+	display: none; z-index: 10000000; width: 300px; position: absolute; height: 400px;
+}
+.ie7_set_homepage_tip_text {
+	padding: 10px;
+	background-color: #ffff00;
+	color: black;
+	position: absolute;
+	z-index: 1000000;
+	border: 1px solid black;
+}
+#ie7_set_homepage_tip img {
+	position: absolute; left: 220px; top: 5px;
+}
+
+.nested_menubar {	margin-left: 0px !important; }
+.nested_menubar li { position: relative; }
+.nested_menu_container { position: absolute; top: 0px; display: none; padding-left: 10px; }
+.nested_menu_container .popup_menu { position: static; display: block; }
