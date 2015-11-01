@@ -1,11 +1,12 @@
 # www.robotstxt.org/
 # www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
 
-# Allow crawling of all content
+# Allow crawling
 User-agent: *
-Disallow: /inc/
-Disallow: /cdn/
-Disallow: /crawler/
-Disallow: /url.php
-Disallow: /search.php
-Allow: /
+Allow: index.html
+
+# Disallow crawling
+Disallow: .htaccess
+Disallow: result.html
+Disallow: status.php
+Disallow: /assets/
