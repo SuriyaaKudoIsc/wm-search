@@ -1,0 +1,153 @@
+2015-11-01 13:20:21: (log.c.166) server started 
+Sun Nov  1 13:20:21 2015 (1256): Fatal Error Unable to allocate shared memory segment of 67108864 bytes: mmap: Cannot allocate memory (12)
+2015-11-01 13:20:21: (mod_fastcgi.c.1103) the fastcgi-backend /usr/bin/php-cgi failed to start: 
+2015-11-01 13:20:21: (mod_fastcgi.c.1107) child exited with status 254 /usr/bin/php-cgi 
+2015-11-01 13:20:21: (mod_fastcgi.c.1110) If you're trying to run your app as a FastCGI backend, make sure you're using the FastCGI-enabled version.
+If this is PHP on Gentoo, add 'fastcgi' to the USE flags. 
+2015-11-01 13:20:21: (mod_fastcgi.c.1398) [ERROR]: spawning fcgi failed. 
+2015-11-01 13:20:21: (server.c.1021) Configuration of plugins failed. Going down. 
+2015-11-01 13:20:27: (log.c.166) server started 
+Sun Nov  1 13:20:27 2015 (1282): Fatal Error Unable to allocate shared memory segment of 67108864 bytes: mmap: Cannot allocate memory (12)
+2015-11-01 13:20:27: (mod_fastcgi.c.1103) the fastcgi-backend /usr/bin/php-cgi failed to start: 
+2015-11-01 13:20:27: (mod_fastcgi.c.1107) child exited with status 254 /usr/bin/php-cgi 
+2015-11-01 13:20:27: (mod_fastcgi.c.1110) If you're trying to run your app as a FastCGI backend, make sure you're using the FastCGI-enabled version.
+If this is PHP on Gentoo, add 'fastcgi' to the USE flags. 
+2015-11-01 13:20:27: (mod_fastcgi.c.1398) [ERROR]: spawning fcgi failed. 
+2015-11-01 13:20:27: (server.c.1021) Configuration of plugins failed. Going down. 
+2015-11-01 13:20:29: (log.c.166) server started 
+Sun Nov  1 13:20:29 2015 (1313): Fatal Error Unable to allocate shared memory segment of 67108864 bytes: mmap: Cannot allocate memory (12)
+2015-11-01 13:20:29: (mod_fastcgi.c.1103) the fastcgi-backend /usr/bin/php-cgi failed to start: 
+2015-11-01 13:20:29: (mod_fastcgi.c.1107) child exited with status 254 /usr/bin/php-cgi 
+2015-11-01 13:20:29: (mod_fastcgi.c.1110) If you're trying to run your app as a FastCGI backend, make sure you're using the FastCGI-enabled version.
+If this is PHP on Gentoo, add 'fastcgi' to the USE flags. 
+2015-11-01 13:20:29: (mod_fastcgi.c.1398) [ERROR]: spawning fcgi failed. 
+2015-11-01 13:20:29: (server.c.1021) Configuration of plugins failed. Going down. 
+2015-11-01 13:20:41: (log.c.166) server started 
+Sun Nov  1 13:20:41 2015 (1339): Fatal Error Unable to allocate shared memory segment of 67108864 bytes: mmap: Cannot allocate memory (12)
+2015-11-01 13:20:41: (mod_fastcgi.c.1103) the fastcgi-backend /usr/bin/php-cgi failed to start: 
+2015-11-01 13:20:41: (mod_fastcgi.c.1107) child exited with status 254 /usr/bin/php-cgi 
+2015-11-01 13:20:41: (mod_fastcgi.c.1110) If you're trying to run your app as a FastCGI backend, make sure you're using the FastCGI-enabled version.
+If this is PHP on Gentoo, add 'fastcgi' to the USE flags. 
+2015-11-01 13:20:41: (mod_fastcgi.c.1398) [ERROR]: spawning fcgi failed. 
+2015-11-01 13:20:41: (server.c.1021) Configuration of plugins failed. Going down. 
+2015-11-01 13:20:43: (log.c.166) server started 
+Sun Nov  1 13:20:44 2015 (1365): Fatal Error Unable to allocate shared memory segment of 67108864 bytes: mmap: Cannot allocate memory (12)
+2015-11-01 13:20:43: (mod_fastcgi.c.1103) the fastcgi-backend /usr/bin/php-cgi failed to start: 
+2015-11-01 13:20:43: (mod_fastcgi.c.1107) child exited with status 254 /usr/bin/php-cgi 
+2015-11-01 13:20:43: (mod_fastcgi.c.1110) If you're trying to run your app as a FastCGI backend, make sure you're using the FastCGI-enabled version.
+If this is PHP on Gentoo, add 'fastcgi' to the USE flags. 
+2015-11-01 13:20:43: (mod_fastcgi.c.1398) [ERROR]: spawning fcgi failed. 
+2015-11-01 13:20:43: (server.c.1021) Configuration of plugins failed. Going down. 
+2015-11-01 13:20:58: (log.c.166) server started 
+Sun Nov  1 13:20:58 2015 (1395): Fatal Error Unable to allocate shared memory segment of 67108864 bytes: mmap: Cannot allocate memory (12)
+2015-11-01 13:20:58: (mod_fastcgi.c.1103) the fastcgi-backend /usr/bin/php-cgi failed to start: 
+2015-11-01 13:20:58: (mod_fastcgi.c.1107) child exited with status 254 /usr/bin/php-cgi 
+2015-11-01 13:20:58: (mod_fastcgi.c.1110) If you're trying to run your app as a FastCGI backend, make sure you're using the FastCGI-enabled version.
+If this is PHP on Gentoo, add 'fastcgi' to the USE flags. 
+2015-11-01 13:20:58: (mod_fastcgi.c.1398) [ERROR]: spawning fcgi failed. 
+2015-11-01 13:20:58: (server.c.1021) Configuration of plugins failed. Going down. 
+2015-11-01 13:20:59: (log.c.166) server started 
+Sun Nov  1 13:20:59 2015 (1421): Fatal Error Unable to allocate shared memory segment of 67108864 bytes: mmap: Cannot allocate memory (12)
+2015-11-01 13:20:59: (mod_fastcgi.c.1103) the fastcgi-backend /usr/bin/php-cgi failed to start: 
+2015-11-01 13:20:59: (mod_fastcgi.c.1107) child exited with status 254 /usr/bin/php-cgi 
+2015-11-01 13:20:59: (mod_fastcgi.c.1110) If you're trying to run your app as a FastCGI backend, make sure you're using the FastCGI-enabled version.
+If this is PHP on Gentoo, add 'fastcgi' to the USE flags. 
+2015-11-01 13:20:59: (mod_fastcgi.c.1398) [ERROR]: spawning fcgi failed. 
+2015-11-01 13:20:59: (server.c.1021) Configuration of plugins failed. Going down. 
+2015-11-01 13:21:14: (log.c.166) server started 
+Sun Nov  1 13:21:14 2015 (1451): Fatal Error Unable to allocate shared memory segment of 67108864 bytes: mmap: Cannot allocate memory (12)
+2015-11-01 13:21:14: (mod_fastcgi.c.1103) the fastcgi-backend /usr/bin/php-cgi failed to start: 
+2015-11-01 13:21:14: (mod_fastcgi.c.1107) child exited with status 254 /usr/bin/php-cgi 
+2015-11-01 13:21:14: (mod_fastcgi.c.1110) If you're trying to run your app as a FastCGI backend, make sure you're using the FastCGI-enabled version.
+If this is PHP on Gentoo, add 'fastcgi' to the USE flags. 
+2015-11-01 13:21:14: (mod_fastcgi.c.1398) [ERROR]: spawning fcgi failed. 
+2015-11-01 13:21:14: (server.c.1021) Configuration of plugins failed. Going down. 
+2015-11-01 13:21:28: (log.c.166) server started 
+Sun Nov  1 13:21:28 2015 (1477): Fatal Error Unable to allocate shared memory segment of 67108864 bytes: mmap: Cannot allocate memory (12)
+Sun Nov  1 13:21:28 2015 (1479): Fatal Error Unable to allocate shared memory segment of 67108864 bytes: mmap: Cannot allocate memory (12)
+2015-11-01 13:21:44: (server.c.1558) server stopped by UID = 0 PID = 1455 
+2015-11-01 13:22:35: (log.c.166) server started 
+Sun Nov  1 13:22:35 2015 (1521): Fatal Error Unable to allocate shared memory segment of 67108864 bytes: mmap: Cannot allocate memory (12)
+2015-11-01 13:22:35: (mod_fastcgi.c.1103) the fastcgi-backend /usr/bin/php-cgi failed to start: 
+2015-11-01 13:22:35: (mod_fastcgi.c.1107) child exited with status 254 /usr/bin/php-cgi 
+2015-11-01 13:22:35: (mod_fastcgi.c.1110) If you're trying to run your app as a FastCGI backend, make sure you're using the FastCGI-enabled version.
+If this is PHP on Gentoo, add 'fastcgi' to the USE flags. 
+2015-11-01 13:22:35: (mod_fastcgi.c.1398) [ERROR]: spawning fcgi failed. 
+2015-11-01 13:22:35: (server.c.1021) Configuration of plugins failed. Going down. 
+2015-11-01 13:22:39: (log.c.166) server started 
+Sun Nov  1 13:22:39 2015 (1547): Fatal Error Unable to allocate shared memory segment of 67108864 bytes: mmap: Cannot allocate memory (12)
+2015-11-01 13:22:39: (mod_fastcgi.c.1103) the fastcgi-backend /usr/bin/php-cgi failed to start: 
+2015-11-01 13:22:39: (mod_fastcgi.c.1107) child exited with status 254 /usr/bin/php-cgi 
+2015-11-01 13:22:39: (mod_fastcgi.c.1110) If you're trying to run your app as a FastCGI backend, make sure you're using the FastCGI-enabled version.
+If this is PHP on Gentoo, add 'fastcgi' to the USE flags. 
+2015-11-01 13:22:39: (mod_fastcgi.c.1398) [ERROR]: spawning fcgi failed. 
+2015-11-01 13:22:39: (server.c.1021) Configuration of plugins failed. Going down. 
+port registration failed!2015-11-01 14:22:32: (log.c.166) server started 
+2015-11-01 14:24:30: (server.c.1558) server stopped by UID = 0 PID = 25126 
+2015-11-01 14:24:38: (log.c.166) server started 
+2015-11-01 14:26:59: (server.c.1558) server stopped by UID = 0 PID = 25789 
+2015-11-01 14:27:07: (log.c.166) server started 
+2015-11-01 14:28:34: (server.c.1558) server stopped by UID = 0 PID = 25885 
+2015-11-01 14:28:57: (log.c.166) server started 
+2015-11-01 14:32:25: (server.c.1558) server stopped by UID = 0 PID = 25925 
+2015-11-01 14:32:46: (log.c.166) server started 
+Sun Nov  1 14:32:46 2015 (26358): Fatal Error Unable to allocate shared memory segment of 67108864 bytes: mmap: Cannot allocate memory (12)
+2015-11-01 14:35:45: (server.c.1558) server stopped by UID = 0 PID = 26311 
+2015-11-01 14:35:52: (log.c.166) server started 
+2015-11-01 14:37:39: (server.c.1558) server stopped by UID = 0 PID = 28517 
+2015-11-01 14:37:44: (log.c.166) server started 
+2015-11-20 21:44:37: (log.c.166) server started 
+2015-11-20 21:44:58: (server.c.1558) server stopped by UID = 0 PID = 28567 
+2015-11-20 21:45:12: (server.c.1558) server stopped by UID = 0 PID = 30762 
+2015-11-20 21:45:13: (log.c.166) server started 
+2015-11-20 21:45:20: (server.c.1558) server stopped by UID = 0 PID = 31120 
+2015-11-20 21:45:21: (log.c.166) server started 
+2015-12-21 20:04:51: (log.c.166) server started 
+2015-12-21 22:28:43: (server.c.1558) server stopped by UID = 0 PID = 28505 
+2015-12-21 22:28:45: (log.c.166) server started 
+2015-12-21 23:59:09: (server.c.1558) server stopped by UID = 0 PID = 5934 
+2015-12-21 23:59:12: (log.c.166) server started 
+2015-12-22 00:56:19: (server.c.1558) server stopped by UID = 0 PID = 13220 
+2015-12-22 00:56:22: (log.c.166) server started 
+2015-12-22 03:17:11: (server.c.1558) server stopped by UID = 0 PID = 27264 
+2015-12-22 03:17:13: (log.c.166) server started 
+2015-12-22 09:04:28: (server.c.1558) server stopped by UID = 0 PID = 6570 
+2015-12-22 09:04:30: (log.c.166) server started 
+2015-12-22 09:56:00: (server.c.1558) server stopped by UID = 0 PID = 23242 
+2015-12-22 09:56:03: (log.c.166) server started 
+2015-12-22 11:30:57: (server.c.1558) server stopped by UID = 0 PID = 12717 
+2015-12-22 11:30:59: (log.c.166) server started 
+2015-12-22 14:16:19: (server.c.1558) server stopped by UID = 0 PID = 26237 
+2015-12-22 14:16:23: (log.c.166) server started 
+2015-12-22 17:03:38: (server.c.1558) server stopped by UID = 0 PID = 4026 
+2015-12-22 17:03:40: (log.c.166) server started 
+2015-12-22 18:30:33: (log.c.166) server started 
+2015-12-22 18:44:36: (log.c.166) server started 
+2015-12-28 14:03:24: (server.c.1558) server stopped by UID = 0 PID = 16937 
+2015-12-28 14:03:26: (log.c.166) server started 
+2015-12-28 14:03:35: (server.c.1558) server stopped by UID = 0 PID = 4847 
+2015-12-28 14:03:51: (server.c.1558) server stopped by UID = 0 PID = 4327 
+2015-12-28 14:31:06: (server.c.1558) server stopped by UID = 0 PID = 21006 
+2015-12-28 14:31:09: (log.c.166) server started 
+2015-12-30 02:47:08: (server.c.1558) server stopped by UID = 0 PID = 25160 
+2015-12-30 02:52:25: (log.c.166) server started 
+2015-12-30 03:17:24: (server.c.1558) server stopped by UID = 0 PID = 16010 
+2015-12-30 03:22:05: (log.c.166) server started 
+2015-12-30 04:06:13: (server.c.1558) server stopped by UID = 0 PID = 4897 
+2015-12-30 04:12:52: (log.c.166) server started 
+2016-01-21 19:13:05: (log.c.166) server started 
+2016-01-21 19:13:34: (server.c.1558) server stopped by UID = 0 PID = 11492 
+2016-01-21 19:29:32: (server.c.1558) server stopped by UID = 0 PID = 24022 
+2016-01-21 19:29:35: (log.c.166) server started 
+2016-01-21 19:30:50: (server.c.1558) server stopped by UID = 0 PID = 4495 
+2016-01-21 19:30:52: (log.c.166) server started 
+2016-02-19 00:06:31: (log.c.166) server started 
+2016-02-19 00:06:38: (server.c.1558) server stopped by UID = 0 PID = 8160 
+2016-02-19 00:54:48: (server.c.1558) server stopped by UID = 0 PID = 21182 
+2016-02-19 00:54:50: (log.c.166) server started 
+2016-03-23 22:11:30: (log.c.166) server started 
+2016-03-23 22:11:57: (server.c.1558) server stopped by UID = 0 PID = 32602 
+2016-03-23 22:14:33: (server.c.1558) server stopped by UID = 0 PID = 5552 
+2016-03-23 22:14:35: (log.c.166) server started 
+2016-04-28 04:14:13: (server.c.1558) server stopped by UID = 0 PID = 6049 
+2016-04-28 04:15:27: (log.c.166) server started 
